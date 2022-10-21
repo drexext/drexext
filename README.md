@@ -1,9 +1,13 @@
 > py about-me.py
                
-   > drex#0312
-   /
-   > discord.gg/tokenstore
-   > lov3
+  
+  ____                
+ |  _ \ _ __ _____  __    > drex#0312
+ | | | | '__/ _ \ \/ /    /
+ | |_| | | |  __/>  <     > discord.gg/tokenstore
+ |____/|_|  \___/_/\_\    > lov3
+ 
+ 
  
 👋Hi, Im drex. Looking forward to upcoming projects
                       
