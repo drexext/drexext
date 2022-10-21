@@ -1,7 +1,7 @@
-- > py about-me.py
+ > py about-me.py
                
   
--  ____                
+   ____                
 - |  _ \ _ __ _____  __    > drex#0312
 - | | | | '__/ _ \ \/ /    /
 - | |_| | | |  __/>  <     > discord.gg/tokenstore
