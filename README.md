@@ -1,10 +1,10 @@
  > py about-me.py
                
              
-   > drex#0312\
-   \
-   > discord.gg/tokenstore\
-   > lov3
+   drex#0312\
+   |
+   discord.gg/tokenstore\
+   lov3
  
  
  
