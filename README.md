@@ -3,7 +3,7 @@
              
    - drex#0312\
    - discord.gg/tokenstore\
-   - lov3
+   lov3
  
  
  
