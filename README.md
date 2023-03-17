@@ -1,7 +1,7 @@
 ➜ py about-me.py
                
              
-   drex#0312\
+   drex#2900\
    discord.gg/tokenstores\
    lov3
    
