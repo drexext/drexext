@@ -2,11 +2,9 @@
                
              
    drex#0312\
-   discord.gg/tokenstore\
+   discord.gg/tokenstores\
    lov3
    
-   
-👋Hi, Im drex. Looking forward to upcoming projects
                       
 Languages\
 │   ├── Python\
